@@ -3,5 +3,6 @@
 a=2
 b=3
 c=1
-d=$((a+b+c))
-echo "The sum of three numbers is:$d"
+d=4
+e=$((a+b+c+d))
+echo "The sum of four numbers is:$e"
